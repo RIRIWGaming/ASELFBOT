@@ -93,6 +93,83 @@ Install SCnya dulu lalu kalian ekstrak di desktop
 > npm start
 ```
 
+### FITUR
+
+| OWNER |✅|
+| ------------- | ------------- |
+| OFF |✅|
+| ON |✅|
+| STATUS |✅|
+
+| MAKER |✅|
+| ------------- | ------------- |
+| STICKER |✅|
+| STICKER GIF |✅|
+| STICKER WM |✅|
+| TAKE STICKER |✅|
+| FDEFACE |✅|
+
+| CONVERT |✅|
+| ------------- | ------------- |
+| TOIMG |✅|
+| TOMP3 |✅|
+| TOMP4 |✅|
+| SLOW |✅|
+| FAST |✅|
+| REVERSE |✅|
+| TOURL |✅|
+
+| UP STORY |✅|
+| ------------- | ------------- |
+| UPSWTEXT |✅|
+| UPSWIMAGE |✅|
+| UPSWVIDEO  |✅|
+
+| FUN |✅|
+| ------------- | ------------- |
+| FITNAH |✅|
+| FITNAH PC |✅|
+| KONTAK |✅|
+
+
+| TAG |✅|
+| ------------- | ------------- |
+| STICKTAG |✅|
+| HIDETAG |✅|
+| KONTAG |✅|
+| TOTAG |✅|
+
+| DOWNLOAD |✅|
+| ------------- | ------------- |
+| YTSEARCH |✅|
+| IGSTALK |✅|
+| PLAY |✅|
+| VIDEO |✅|
+| YTMP3 |✅|
+| YTMP4 |✅|
+| IGDL |✅|
+| FBDL |✅|
+| TIKTOKDL |✅|
+| TIKTOK AUDIO |✅|
+| TWITTER |✅|
+| BRAINLY |✅|
+| IMAGE |✅|
+| ANIME |✅|
+
+| OTHER |✅|
+| ------------- | ------------- |
+| SELF |✅|
+| PUBLIC |✅|
+| SET THUMB |✅|
+| SET FAKE IMG |✅|
+| SET TARGET |✅|
+| SET REPLY |✅|
+| PING |✅|
+| JOIN |✅|
+| GET |✅|
+| TERM |✅|
+| X |✅|
+
 ## DONATE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Saweria`](https://saweria.co/donate/RIRIWGaming)
 
@@ -104,5 +181,3 @@ Install SCnya dulu lalu kalian ekstrak di desktop
 * [`Telegram`](https://t.me/6283833271665)
 * [`Twitter`](https://twitter.com/Clara_Lope_Ku)
 * [`Group WhatsApp`](https://chat.whatsapp.com/JtLdKWXdrDuHeag96CQ3GM)
-
-
