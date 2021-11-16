@@ -99,7 +99,7 @@ Install SCnya dulu lalu kalian ekstrak di desktop
 ## SOSIAL MEDIA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 * [`Youtube`](https://youtube.com/c/RIRIWGaming)
 * [`Instagram`](https://instagram.com/ririwgaming)
-* [`WhatsApp`](https://wa.me/6283833271665)
+* [`WhatsApp`](https://ririwgaming.ueuo.com/whatsapp)
 * [`Facebook`](https://m.facebook.com/raihan.ridho.90260)
 * [`Telegram`](https://t.me/6283833271665)
 * [`Twitter`](https://twitter.com/Clara_Lope_Ku)
