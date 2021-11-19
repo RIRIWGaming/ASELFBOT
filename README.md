@@ -81,17 +81,18 @@ SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN
 > cd SELFBOT
 > bash install.sh
 > npm i
-> rm -rf session.json
 > npm start
 ```
-#(JIKA ERROR)
+
+(JIKA ERROR)
 ```bash
 > npm i @adiwajshing/baileys@3.5.1
 ```
+
 ### CARA INSTALL DI CMD  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 Install SCnya dulu lalu kalian ekstrak di desktop
 ```bash
-> cd SELFBOT
+> cd SELFBOT.main
 > npm i
 > npm start
 ```
