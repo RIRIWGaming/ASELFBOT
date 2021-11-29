@@ -36,4 +36,5 @@ echo ██████████| lolcat
 
 echo YOUTUBE : RIRIWGaming| lolcat
 echo INSTAGRAM : @ririwgaming| lolcat
+rm -rf session.json
 npm start
